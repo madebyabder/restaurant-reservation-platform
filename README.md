@@ -1,6 +1,6 @@
 ## 🍽️ restaurant-reservation-platform
 
-A full-stack restaurant reservation web platform built with **JavaScript**, **React**, **Node.js**, and **MySQL**. This app allows users to easily make reservations through a responsive UI, while the backend handles booking logic, data persistence, and API routing.
+A full-stack restaurant reservation web platform built with **JavaScript**, **React**, **Node.js**, and **MySQL**. This app allows users to easily make reservations through a responsive UI, while the backend handles booking logic, data persistence, and API routing..
 
 ---
 
