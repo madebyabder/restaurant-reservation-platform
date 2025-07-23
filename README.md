@@ -17,7 +17,7 @@ A full-stack restaurant reservation web platform built with **JavaScript**, **Re
 ## 🖼️ Demo
 
 <!-- Uncomment below and add a screenshot of the live app -->
-<!-- ![Resto Reservation App Demo](client/public/screenshot.png) -->
+![Resto Reservation App Demo](server/home.png) 
 
 ---
 
